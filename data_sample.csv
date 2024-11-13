@@ -1,10 +1,11 @@
-parcl_property_id,address,unit,city,zip_code,state_abbreviation,county,cbsa,latitude,longitude,property_type,bedrooms,bathrooms,square_footage,year_built,cbsa_parcl_id,county_parcl_id,city_parcl_id,zip_parcl_id,event_count,event_history_sale_flag,event_history_rental_flag,event_history_listing_flag,current_new_construction_flag,owner_occ,investor_owned,current_owner
-79634109,693 CREEK STONE DR,,,30620,GA,Barrow County,"Atlanta-Sandy Springs-Alpharetta, GA",33.919815,-83.756209,SINGLE_FAMILY,0,2,1270,2001,2887280,5821775,,5403125,2,1,0,0,0,no,no,unknown
-123317351,259 OAKRIDGE DR,,,30540,GA,Gilmer County,,34.677144,-84.625597,OTHER,3,2,1456,2000,,5821313,,5403123,0,0,0,0,,no,yes,unknown
-64911581,4704 AMANDA LOUISA CT,,,30039,GA,Gwinnett County,"Atlanta-Sandy Springs-Alpharetta, GA",33.787581,-83.987632,SINGLE_FAMILY,3,2,3187,2000,2887280,5822064,,5314387,1,1,0,0,0,no,no,unknown
-81061769,682 ROBIN HOOD DR,,,30564,GA,Hall County,"Gainesville, GA",34.481029,-83.86606,OTHER,3,2,1568,2020,2899719,5823241,,5467685,6,1,0,0,1,no,no,unknown
-167426173,185 HOLLY TREE RD,,,30116,GA,Carroll County,"Atlanta-Sandy Springs-Alpharetta, GA",33.607125,-84.993905,SINGLE_FAMILY,3,1,1200,1946,2887280,5821127,,5314700,1,1,0,0,0,no,no,unknown
-167273114,9485 RIVERCLUB PKWY,,Johns Creek City,30097,GA,Fulton County,"Atlanta-Sandy Springs-Alpharetta, GA",34.011871,-84.190428,SINGLE_FAMILY,3,4,3960,1986,2887280,5823604,5384011,5402836,0,0,0,0,,no,no,unknown
-175220767,632 JACKSON BLVD,,Savannah City,31405,GA,Chatham County,"Savannah, GA",32.01405,-81.100103,SINGLE_FAMILY,4,3,2405,1956,2900346,5822383,5384032,5313993,4,1,0,0,0,yes,no,unknown
-74501370,3203 CHERU CT,,,30034,GA,DeKalb County,"Atlanta-Sandy Springs-Alpharetta, GA",33.690463,-84.22978,SINGLE_FAMILY,4,2,1889,1967,2887280,5821075,,5402851,1,1,0,0,0,no,no,unknown
-455986313,880 GLENWOOD AVE SE,UNIT 3259,Atlanta City,30316,GA,Fulton County,"Atlanta-Sandy Springs-Alpharetta, GA",33.74049,-84.35874,CONDO,2,1,1115,,2887280,5823604,5384169,5589642,1,0,1,0,0,unknown,unknown,unknown
+parcl_property_id,GEOID,address,city,county,latitude,longitude,property_type,bedrooms,bathrooms,square_footage,year_built,owner_occ,current_owner
+215010727,13067031314,6255 RIVER VIEW RD SE,Smyrna City,Cobb,33.80176,-84.5024,SINGLE_FAMILY,,,,,unknown,unknown
+156829062,13247060314,2616 COUNTRY TRCE SE,,Rockdale,33.617448,-83.979711,OTHER,3.0,2.0,1428.0,1986.0,no,unknown
+88409775,13089023323,733 TRIGG LAKE CT,,DeKalb,33.779152,-84.135725,SINGLE_FAMILY,3.0,3.0,3156.0,2000.0,no,INVITATION_HOMES
+152635455,13223120107,9025 DALLAS ACWORTH HWY,,Paulding,34.01427,-84.753117,OTHER,0.0,2.0,1860.0,1979.0,no,unknown
+84998985,13067030508,1624 PINEBREEZE DR,Marietta City,Cobb,33.992448,-84.51335,SINGLE_FAMILY,4.0,3.0,2348.0,1996.0,no,unknown
+433305886,13067031512,4221 BROWNSVILLE RD,Powder Springs City,Cobb,33.84498,-84.69603,CONDO,2.0,2.0,,,unknown,unknown
+183058757,13067030275,949 COLLEGE PLACE CT NW,,Cobb,34.052021,-84.579973,SINGLE_FAMILY,4.0,4.0,2527.0,2003.0,no,unknown
+152466067,13121011624,335 OAK RIDGE TER,Johns Creek City,Fulton,34.073554,-84.188743,SINGLE_FAMILY,5.0,4.0,3473.0,2000.0,no,unknown
+120013917,13121001203,240 NORTH AVE NE,Atlanta City,Fulton,33.771895,-84.379528,OTHER,0.0,1.0,,2001.0,no,unknown
+134148888,13135050550,205 WINNCASTLE DR,,Gwinnett,33.914066,-84.076773,SINGLE_FAMILY,3.0,2.0,2675.0,1999.0,no,unknown
